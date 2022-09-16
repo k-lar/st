@@ -17,7 +17,10 @@ I'm using tmux, because it handles history/scrollback better than st's scroll pa
 super janky and weird in my opinion.  
 
 I'm using a font called BlexMono (IBM Plex Mono Nerd Font). It's available in the AUR, otherwise
-you can find it here: TODO: Add link to BlexMono Github  
+you can find it here: TODO: ![BlexMono GitHub](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/IBMPlexMono)  
+
+**To change the font to your system's default mono font (fontconfig), remove BlexMono Nerd Font
+Mono, and replace it with "mono" inside the file config.def.h**
 
 
 ## Installation
